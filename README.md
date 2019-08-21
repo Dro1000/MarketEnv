@@ -1,3 +1,3 @@
 # MarketEnv
 
-This is the framework which allow to simulate market environment for reainforcement learnint tasks
+This is a framework which allows to simulate market environment for reinforcement learning tasks
